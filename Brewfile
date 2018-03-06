@@ -1,0 +1,7 @@
+brew "mas"
+brew "nvm"
+cask "android-studio"
+cask "slack"
+cask "iterm2"
+cask "microsift-office"
+mas lucky "xcode"
